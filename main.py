@@ -4,7 +4,7 @@ from pytgcalls import idle
 
 from config import call_py
 
-from Musictelethon.التشغيل import arq
+from MusicTelethon.التشغيل import arq
 
 async def main():
 
