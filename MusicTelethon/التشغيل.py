@@ -214,6 +214,8 @@ async def play(client, m: Message):
 
 💬 ايدي المحادثه : {chat_id}
 
+👑 ميـــٰوزك ريفـــٰآي : @HBBCE
+
 🎧 طلب من : {m.from_user.mention}**
 
 """,                )
@@ -274,6 +276,8 @@ async def play(client, m: Message):
 
 💬 ايدي المحادثه : {chat_id}
 
+👑 ميـــٰوزك ريفـــٰآي : @HBBCE
+
 🎧 طلب من : {m.from_user.mention}**
 
 """,
@@ -315,6 +319,8 @@ async def play(client, m: Message):
 ⏱️ مده المقطع : {duration}
 
 💬 ايدي المحادثه : {chat_id}
+
+👑 ميـــٰوزك ريفـــٰآي : @HBBCE
 
 🎧 طلب من : {m.from_user.mention}**
 
@@ -394,6 +400,8 @@ async def vplay(client, m: Message):
 
 💬 ايدي المحادثه : {chat_id}
 
+👑 ميـــٰوزك ريفـــٰآي : @HBBCE
+
 🎧 طلب من : {m.from_user.mention}**
 
 """,
@@ -439,6 +447,8 @@ async def vplay(client, m: Message):
 **🏷️ العنوان : [{songname}]({link})
 
 💬 ايدي المحادثه : {chat_id}
+
+👑 ميـــٰوزك ريفـــٰآي : @HBBCE
 
 🎧 طلب من : {m.from_user.mention}**
 
@@ -504,6 +514,8 @@ async def vplay(client, m: Message):
 
 💬 ايدي المحادثه : {chat_id}
 
+👑 ميـــٰوزك ريفـــٰآي : @HBBCE
+
 🎧 طلب من : {m.from_user.mention}**
 
 """,                        )
@@ -529,6 +541,8 @@ async def vplay(client, m: Message):
 ⏱️ مده المقطع : {duration}
 
 💬 ايدي المحادثه : {chat_id}
+
+👑 ميـــٰوزك ريفـــٰآي : @HBBCE
 
 🎧 طلب من : {m.from_user.mention}**
 
@@ -609,6 +623,8 @@ async def playfrom(client, m: Message):
 🏷️ العنوان : [{songname}]({link})
 
 💬 المحادثه : {chat_id}
+
+👑 ميـــٰوزك ريفـــٰآي : @HBBCE 
 
 🎧 من الطلب : {m.from_user.mention}**
 
