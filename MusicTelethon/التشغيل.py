@@ -192,6 +192,8 @@ async def play(client, m: Message):
 
 💬 ايدي المحادثه : {chat_id}
 
+👑 ميـــٰوزك ريفـــٰآي : @HBBCE
+
 🎧 طلب من : {m.from_user.mention}**
 
 """,                )
